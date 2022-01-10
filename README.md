@@ -1,16 +1,18 @@
-### Hi there 👋
+# About me
+Hi! I am Bayleaf, just another programmer one day at a time. I am from the United States and I am also a Computer Science college graduate.
 
-<!--
-**bayleaf1130/bayleaf1130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy developing in Python, C, and Clojure.
 
-Here are some ideas to get you started:
+I really like working on backend development and projects related to the command line or software emulation/graphics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My hobbies
+I really like to climb big rocks.
+
+![Bayleaf's github stats](https://github-readme-stats.vercel.app/api?username=bayleaf1130&show_icons=true&theme=radical)
+
+![Bayleaf's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayleaf1130&layout=compact&theme=radical)
+
+# My info
+
+## Social Media
+[![Github](https://img.shields.io/badge/github-%23333333.svg?&logo=github&style=for-the-badge&logoColor=white)](https://github.com/bayleaf1130)
