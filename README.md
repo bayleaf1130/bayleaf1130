@@ -15,4 +15,8 @@ I really like to climb big rocks.
 ![Bayleaf's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayleaf1130&layout=compact&theme=radical)
 
 ## Social Media
+
 [![Github](https://img.shields.io/badge/github-%23333333.svg?&logo=github&style=for-the-badge&logoColor=white)](https://github.com/bayleaf1130)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baileykocin)
+
