@@ -1,4 +1,5 @@
 # About me
+
 Hi! I am Bayleaf, just another programmer one day at a time. I am from the United States and I am also a Computer Science college graduate.
 
 I enjoy developing in Python, C, and Clojure.
@@ -8,7 +9,10 @@ I really like working on backend development and projects related to the command
 Check out my blog [Bumbling Bayleaf](http://blog.bumblingbayleaf.com)
 
 ## My hobbies
-I really like to climb big rocks.
+
+I really like to climb big rocks, magic the gathering and diving deep into my D&D campaigns.
+
+## My Stats
 
 ![Bayleaf's github stats](https://github-readme-stats.vercel.app/api?username=bayleaf1130&show_icons=true&theme=radical)
 
