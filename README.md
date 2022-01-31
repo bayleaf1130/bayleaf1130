@@ -10,7 +10,7 @@ Check out my blog [Bumbling Bayleaf](https://bumblingbayleaf.com)
 
 ## My hobbies
 
-I really like to climb big rocks, magic the gathering and diving deep into my D&D campaigns.
+I really like to climb big rocks, spend too much money on magic the gathering and dive deep into my D&D campaigns.
 
 ## My Stats
 
