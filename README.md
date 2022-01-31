@@ -6,7 +6,7 @@ I enjoy developing in Python, C, and Clojure.
 
 I really like working on backend development and projects related to the command line or software emulation/graphics.
 
-Check out my blog [Bumbling Bayleaf](http://blog.bumblingbayleaf.com)
+Check out my blog [Bumbling Bayleaf](https://bumblingbayleaf.com)
 
 ## My hobbies
 
