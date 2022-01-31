@@ -4,6 +4,8 @@ Hi! I am Bayleaf, just another programmer one day at a time. I am from the Unite
 
 I enjoy developing in Python, C, and Clojure.
 
+Currently, I am teaching myself Golang in hopes that I can replace C for my systems projects (:
+
 I really like working on backend development and projects related to the command line or software emulation/graphics.
 
 Check out my blog [Bumbling Bayleaf](https://bumblingbayleaf.com)
