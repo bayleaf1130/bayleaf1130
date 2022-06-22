@@ -2,7 +2,7 @@
 
 Hi! I am Bayleaf, just another programmer one day at a time. I am from the United States and I am also a Computer Science college graduate.
 
-I enjoy developing in Python, C, and Clojure.
+I enjoy developing in Python, C, Kotlin, Rust, and Clojure.
 
 Currently, I am teaching myself Golang in hopes that I can replace C for my systems projects (:
 
