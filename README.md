@@ -2,6 +2,8 @@
 
 Hi! I am Bayleaf, just another programmer taking one day at a time. I am from the United States and I am also a Computer Science college graduate.
 
+My profile picture is indeed my lovely pup.
+
 I enjoy developing in Python, C, Kotlin, Goalng, Rust, and Clojure.
 
 I have career experience with Python, C, Kotlin, and Clojure at the moment but I am looking to get back to my roots and do some more work closer to the kernel (well higher than embedded software but still what I like)
