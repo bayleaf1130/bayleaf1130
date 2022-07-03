@@ -4,9 +4,9 @@ Hi! I am Bayleaf, just another programmer taking one day at a time. I am from th
 
 I enjoy developing in Python, C, Kotlin, Goalng, Rust, and Clojure.
 
-I have career experience with Python, C, Kotlin and Clojure at the moment.
+I have career experience with Python, C, Kotlin, and Clojure at the moment but I am looking to get back to my roots and do some more work closer to the kernel (well higher than embedded software but still what I like)
 
-I think its important we pick tools for the situation so I love learning lots of things.
+I love learning new software languages because I like to see the thought, sentiments, and decisions that went into them. I think it helps me grow as a developer as well.
 
 Currently, I am teaching myself Rust and Golang in hopes that I can replace C for my systems projects... and I enjoy them both quite a bit for different reasons.
 
