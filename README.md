@@ -1,14 +1,18 @@
 # About me
 
-Hi! I am Bayleaf, just another programmer one day at a time. I am from the United States and I am also a Computer Science college graduate.
+Hi! I am Bayleaf, just another programmer taking one day at a time. I am from the United States and I am also a Computer Science college graduate.
 
-I enjoy developing in Python, C, Kotlin, Rust, and Clojure.
+I enjoy developing in Python, C, Kotlin, Goalng, Rust, and Clojure.
 
-Currently, I am teaching myself Rust in hopes that I can replace C for my systems projects... but honestly I am loving it so much I just might use it for everything....
+I have career experience with Python, C, Kotlin and Clojure at the moment.
 
-I really like working on backend development and projects related to the command line or software emulation/graphics.
+I think its important we pick tools for the situation so I love learning lots of things.
 
-Check out my blog [Bumbling Bayleaf](https://bumblingbayleaf.com)
+Currently, I am teaching myself Rust and Golang in hopes that I can replace C for my systems projects... and I enjoy them both quite a bit for different reasons.
+
+I really like working on backend development and projects related to the system level tooling or software emulation/graphics.
+
+Check out my blog [Bumbling Bayleaf](https://bumblingbayleaf.com) (there really is not much here, I just tried to teach myself bootstrap/javascript really)
 
 ## My hobbies
 
