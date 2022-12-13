@@ -2,21 +2,19 @@
 
 Hi! I am Bayleaf, just another programmer taking one day at a time. I am from the United States and I am also a Computer Science college graduate.
 
-I enjoy developing in Python, C, Kotlin, Goalng, Rust, and Clojure.
+I enjoy developing in Python, C, Golang, Rust, and Clojure.
 
-I have career experience with Python, C, Kotlin, and Clojure at the moment but I am looking to get back to my roots and do some more work closer to the kernel (well higher than embedded software but still what I like)
+I have career experience with Python, C, Kotlin, and Clojure at the moment but I am looking to get back to my roots and do some more work closer to the OS or work on high performance systems.
 
-I love learning new software languages because I like to see the thought, sentiments, and decisions that went into them. I think it helps me grow as a developer as well.
+I love learning new software languages because I like to see the thought, sentiments, and decisions that went into them. I think it helps me grow as a developer.
 
 Currently, I am teaching myself Rust and Golang in hopes that I can replace C for my systems projects... and I enjoy them both quite a bit for different reasons.
 
 I really like working on backend development and projects related to the system level tooling or software emulation/graphics.
 
-Check out my blog [Bumbling Bayleaf](https://bumblingbayleaf.com) (there really is not much here, I just tried to teach myself bootstrap/javascript really)
-
 ## My hobbies
 
-I really like to climb big rocks, spend too much money on magic the gathering and dive deep into my D&D campaigns.
+I really like to climb big rocks, spend too much money on magic the gathering, and dive deep into my D&D campaigns.
 
 ## My Stats
 
