@@ -4,7 +4,7 @@ Hi! I am Bayleaf, just another programmer taking one day at a time. I am from th
 
 I enjoy developing in Python, C, Kotlin, and Clojure.
 
-I have career experience with Python, C, Kotlin, and Clojure at the moment but I always like getting my hands dirty with new tools....
+I have career experience with Python, C++, Kotlin, Java, and Clojure at the moment but I always like getting my hands dirty with new tools....
 
 Currently, I am teaching myself Rust and Golang in hopes that I can replace C for my systems projects... and I enjoy them both quite a bit for different reasons.
 
