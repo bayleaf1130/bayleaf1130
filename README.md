@@ -2,9 +2,7 @@
 
 Hi! I am Bayleaf, just another programmer taking one day at a time.
 
-I enjoy developing in Python, C/C++, Javascript, Rust, and Clojure.
-
-I have career experience with Python, C++/C, C#, Java, and Clojure at the moment but I always like getting my hands dirty with new tools....
+I enjoy developing in Python, Clojure, Javascript and Golang!
 
 I am really into web development these days, I enjoy creating delightful experiences for users and with UI/UX I can do that directly (:
 
