@@ -1,6 +1,6 @@
 # About me
 
-Hi! I am Bayleaf, just another programmer taking one day at a time.
+Hi! I am Bayleaf, just another programmer taking it one day at a time.
 
 I enjoy developing in Clojure, Java, Javascript, CSS/HTML and sometimes Golang!
 
