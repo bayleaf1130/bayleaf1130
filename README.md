@@ -1,8 +1,6 @@
 # About me
 
-Hi! I am Bayleaf, just another programmer taking it one day at a time.
-
-I enjoy developing webapps with Clojure/Javascript or fun software with Rust/Golang but will get my hands dirty with whatever.
+Hi! I am Bailey, just another programmer taking it one day at a time.
 
 I am always looking for freelance/contract work so feel free to reach out on LinkedIn with the link below
 
